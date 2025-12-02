@@ -1,2 +1,1 @@
-## Hi there 👋
-- 💬 Ask me about : anything on math physics
+# Hi there. This is Mrinal Chiti.
